@@ -1,6 +1,7 @@
 # SpendSense: Intelligent Expense Visualizer
 # Try it from here => 
 https://spend-sense-chi-nine.vercel.app/
+
 A frontend financial dashboard built with HTML, CSS, and vanilla JavaScript. It transforms raw expense data into category reports, CSS bars, SVG donut charts, and budget insights.
 
 ## Features
