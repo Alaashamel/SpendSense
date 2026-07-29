@@ -1,4 +1,7 @@
 # SpendSense: Intelligent Expense Visualizer
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-JavaScript-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/SpendSense)
+
 # Try it from here => 
 https://spend-sense-chi-nine.vercel.app/
 
